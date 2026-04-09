@@ -20,6 +20,10 @@ O projeto foi estruturado utilizando a **Modern Data Stack**:
 3. **Transformation:** SQL para modelagem, limpeza e agregação de dados.
 4. **BI & Analytics:** Looker Studio para visualização de indicadores de performance (KPIs).
 
+## 💡 Insights Extraídos
+* **Picos de Demanda:** Identificação clara de aumento de fluxo entre 17h e 19h (comportamento pendular corporativo).
+* **Top Hubs:** Estações como Pershing Square North concentram o maior volume de viagens, sugerindo necessidade de logística prioritária.
+
 ## 🔧 Modelagem de Dados (SQL)
 Abaixo, a lógica utilizada para higienização e engenharia de atributos (feature engineering):
 
