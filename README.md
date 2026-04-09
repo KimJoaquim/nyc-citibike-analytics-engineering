@@ -13,6 +13,13 @@ O pipeline foi estruturado seguindo as melhores práticas de modelagem de dados:
 2. **Transformação (Analytics Engineering):** Criação de tabelas agregadas para otimização de performance e custo.
 3. **Business Intelligence:** Desenvolvimento de dashboards para identificação de padrões de demanda.
 
+## 🏗️ Arquitetura da Solução
+O projeto foi estruturado utilizando a **Modern Data Stack**:
+1. **Raw Data:** Dados brutos provenientes do Google Cloud Marketplace.
+2. **Data Warehouse:** Google BigQuery para armazenamento e processamento.
+3. **Transformation:** SQL para modelagem, limpeza e agregação de dados.
+4. **BI & Analytics:** Looker Studio para visualização de indicadores de performance (KPIs).
+
 ## 🔧 Modelagem de Dados (SQL)
 Abaixo, a lógica utilizada para higienização e engenharia de atributos (feature engineering):
 
