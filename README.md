@@ -1,5 +1,7 @@
 # Otimização de Mobilidade Urbana: Pipeline de Dados NYC Citi Bike 🚲📊
 
+![Dashboard NYC Citi Bike](img/image_b85cc2.png)
+
 Este projeto apresenta uma solução completa de **Analytics Engineering**, transformando dados brutos de milhões de viagens de bicicletas em Nova York em uma camada de dados modelada e pronta para análise estratégica.
 
 ## 🛠️ Stack Tecnológica
